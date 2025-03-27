@@ -1,6 +1,6 @@
 
 
-# DL_assignment.ipynb
+#FeedForward.ipynb
 
 This document is helpful in understanding the code implementation **DL_assignment.ipynb**
 The code is structured as follows:
