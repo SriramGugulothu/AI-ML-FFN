@@ -2,7 +2,7 @@
 
 #FeedForward.ipynb
 
-This document is helpful in understanding the code implementation **DL_assignment.ipynb**
+This document is helpful in understanding the code implementation **FNN.ipynb**
 The code is structured as follows:
 **DataSet**:
     - I have downloaded the fashion_mnist dataset
