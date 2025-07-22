@@ -72,8 +72,6 @@ The code is structured as follows:
  - It is completely similar to FNN.ipynb python code.
  - I have removed wandb sweeps code.
  - Added few lines of parsers code for implementation of train.py
- - I have changed little bit of DL_assignment.ipynb python code to facilitate more parameters asked in final 
-   question.
  - Here, please note that I have used these notations-
  - 'entropy' for cross_entorpy
  - 'mse' for mean_squared_error
