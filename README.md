@@ -69,7 +69,7 @@ The code is structured as follows:
 - Here I forgot to add all variations of parameters in the sweep_params at the time of submission. I am sorry for this.
 
  # train.py
- - It is completely similar to DL_assignment.ipynb python code.
+ - It is completely similar to FNN.ipynb python code.
  - I have removed wandb sweeps code.
  - Added few lines of parsers code for implementation of train.py
  - I have changed little bit of DL_assignment.ipynb python code to facilitate more parameters asked in final 
